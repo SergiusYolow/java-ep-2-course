@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Add.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Books.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Catalog.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/CatalogFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/LibItem.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>

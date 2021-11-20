@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 22 00:58:36 MSK 2021:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): экземпляр a816c00e-017c-0a5e-2aa0-00003ed66dc3
+в каталоге базы данных C:\Users\Lenovo\IdeaProjects\LP7_var1_vers2\DataBase\DataBase sun.misc.Launcher$AppClassLoader@18b4aac2 
+
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_265-b01
+user.dir=C:\Users\Lenovo\IdeaProjects\LP7_var1_vers2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Lenovo\IdeaProjects\LP7_var1_vers2\DataBase
+Запущен загрузчик классов базы данных - derby.database.classpath=''
